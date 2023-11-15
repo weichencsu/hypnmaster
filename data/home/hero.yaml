@@ -1,0 +1,13 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "**HyPnMaster**"
+  text: "HyPnMaster is a commercial multi-domain system simulation tool developed at the division of Fluid and Mechatronic Systems at Monash University, Australia. It was then commericallised as a turn-key software product for the industry. HyPnMaster 是基于澳大利亚莫纳什大学早期研发的液压和气动软件所开发的商业软件。随后作为一款商业液压和气动软件为各行业工业设备服务。在中国，我们与**武汉海卓泰克科技有限公司**合作，共同开发提升液压与气动仿真先进软件。"
+
+  buttonPrimary:
+    label: "Contact Us 联系我们"
+    url: "mailto:hydroservo@163.com"
+
+
+

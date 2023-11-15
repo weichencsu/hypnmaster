@@ -1,0 +1,41 @@
+enabled: true
+id: "portfolio"
+
+content:
+  - image: "images/portfolio-ecommerce.png"
+    title: "INTRODUCTION 软件介绍"
+    text: "HyPnMaster is developed by a group of coworkers at the division, all with varying levels of knowledge in programming, modelling, simulation and hydraulics.
+HyPnMaster 是由多学科专家合作开发而成。"
+
+  - image: "images/portfolio-ecommerce.png"
+    title: "FEATURES"
+    text: "
+    Multi-core support for faster simulations;
+    Model export/import using Functional Mock-Up Interface (FMI);
+    Model export to Matlab/Simulink;
+    Plot data export to CSV, XML, Gnuplot & Matlab;
+    Creating models from Modelica and C++;
+    Interactive & replay animations;
+    Numerical optimization;
+    Sensitivity analysis;
+    Frequency-domain analysis;
+    Energy losses calculations;
+    Scripting using HCOM or Python.
+    软件具备多线程快速仿真;
+    基于FMI的模型输入与输出;
+    模型输出至Matlab/Simulink;
+    绘图数据导出为CSV，XML，Gnuplot及Matlab兼容格式;
+    交互式动画;数值优化;频域分析;能耗分析;Python及HCOM程序接口。
+"
+
+
+  - image: "images/portfolio-ecommerce.png"
+    title: "HISTORY"
+    text: "
+    Development first began in the late 1970’s, and it has played an important role in education and research projects and over time.
+
+    In 2009, development began of a new object-oriented simulation platform written in C++. There is a strong focus on multi-core support and tool interoperability. 
+
+    HyPnMaster was the first system simulation tool with built-in support for multi-core simulation. It is also the only simulation software that is built around the transmission line modelling (TLM) technique (or bi-directional delay lines). With this method, models can be automatically partitioned by introducing physically motivated time delays between components. Each part of the model can then be solved independently during each time step. This improves simulation performance, numerical robustness and model scalability makes the simulation very robust and fast, and provides a natural mechanism for parallel simulation. 自从上世纪70年代末，HyPnMaster软件已经初具雏形。2009年，该软件采用C++语言重新编写，并额外加入多线程支持及工具协作。HyPnMaster 是第一个内置支持多核仿真的系统仿真工具。 它也是唯一围绕传输线建模 (TLM) 技术（或双向延迟线）构建的仿真软件。 使用这种方法，可以通过在组件之间引入物理驱动的时间延迟来自动划分模型。 然后可以在每个时间步长中独立求解模型的每个部分。 这提高了仿真性能、数值鲁棒性和模型可扩展性，使仿真具备高鲁棒性，并为并行仿真提供了自然的机制。"
+
+

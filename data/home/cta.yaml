@@ -1,0 +1,7 @@
+enabled: true
+id: "cta"
+
+content:
+  title: "Try HyPnMaster now!"
+  image: "images/services-web-development.png"
+

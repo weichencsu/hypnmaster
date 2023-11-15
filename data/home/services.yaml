@@ -1,0 +1,14 @@
+enabled: true
+id: "services"
+
+content:
+  title: "Downloads 下载"
+  cards:
+    - title: "Download HyPnMaster"
+      text: "HypnMaster is available for many systems, such as Windows, Ubuntu and Debian. HypnMaster是多平台仿真软件，包含：Windows，Ubuntu及Debian。"
+      button:
+        label: "Contact Us 联系我们"
+        url: "mailto:hydroservo@163.com"
+
+
+

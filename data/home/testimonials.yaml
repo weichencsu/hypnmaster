@@ -1,0 +1,26 @@
+enabled: true
+id: "testimonials"
+
+content:
+  title: "Testimonials 客户反馈"
+
+  featured:
+    image: "images/testimonials-awards.png"
+    text: "I have been using HyPnMaster for hydraulic and pneumatic simulation, and I must say it has significantly improved our design process. The user-friendly interface coupled with its accurate simulation capabilities has allowed us to optimize our system designs efficiently. The software's comprehensive features have enabled us to identify potential issues early in the design phase, saving us both time and resources. I highly recommend HyPnMaster to any engineer or designer working with hydraulic and pneumatic systems."
+    client: "Anonymous Customer"
+
+  list:
+    - text: "As a seasoned mechanical engineer, I've found HyPnMaster to be an invaluable tool for simulating hydraulic and pneumatic systems. Its advanced modeling capabilities and precise simulations have empowered me to fine-tune our system designs with confidence. The software's seamless integration with industry-standard tools and its ability to simulate complex scenarios make it a must-have for any engineering team. HyPnMaster has undoubtedly elevated our design process and decision-making, making it an indispensable asset in our toolkit."
+      client: "Anonymous Customer"
+
+    - text: "HyPnMaster has revolutionized the way we approach hydraulic and pneumatic system design. Its intuitive interface and robust simulation tools have made it possible for our team to iterate through designs swiftly and with a high degree of accuracy. The software's ability to visualize complex fluid dynamics and predict system behavior has allowed us to make informed decisions early in the design phase, ultimately leading to more efficient and reliable system implementations. With HyPnMaster, we've experienced a noticeable boost in our productivity and design quality."
+      client: "Anonymous Customer"
+
+    - text: "HyPnMaster has been an absolute game-changer for our engineering team. Its unparalleled hydraulic and pneumatic simulation capabilities have given us the confidence to tackle complex system designs with ease. The software's ability to accurately predict system performance and behavior has saved us countless hours of trial and error, allowing us to deliver robust and efficient solutions to our clients. Thanks to HyPnMaster, we've been able to stay ahead of the curve in a competitive industry, setting new standards for excellence in system design and optimization."
+      client: "Anonymous Customer"
+
+    - text: "HyPnMaster 已成为我们工程工作流程中不可或缺的资产。 其液压和气动仿真功能使我们能够全面了解系统行为，使我们能够精确而自信地完善我们的设计。 该软件的准确预测和无缝集成大大减少了设计迭代，最终节省了成本并加快了项目进度。 感谢 HyPnMaster，我们的团队能够为客户提供顶级解决方案，为我们项目的效率和可靠性树立了新的基准。"
+      client: "Anonymous Customer"
+
+    - text: "HyPnMaster 将我们的工程能力提升到了新的高度。 该软件的液压和气动仿真工具使我们能够以极高的精度概念化、测试和完善复杂的系统设计。 其直观的界面和强大的功能简化了我们的设计流程，使我们能够创新并向客户提供最先进的解决方案。 通过采用 HyPnMaster，我们获得了竞争优势，能够自信而精确地应对流体动力工程中的复杂挑战。 该软件确实成为我们成功的基石，重新定义了我们进行液压和气动系统设计的方式。"
+      client: "Anonymous Customer"

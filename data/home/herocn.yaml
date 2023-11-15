@@ -1,0 +1,11 @@
+enabled: true
+id: "herocn"
+
+content:
+  title: "**HyPnMaster**"
+  text: "HyPnMaster 是基于澳大利亚纽卡斯尔大学早期研发的液压和气动软件所开发的商业软件。随后作为一款商业液压和气动软件为各行业工业设备服务。"
+
+  buttonPrimary:
+    label: "联系我们"
+    url: "www.hydroservo.com"
+
