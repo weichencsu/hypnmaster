@@ -1,4 +1,5 @@
-baseURL: "https://www.example.com/"
+baseURL: "./"
+relativeURLs : true
 theme: "up-business-theme"
 languageCode: "en-us"
 
